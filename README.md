@@ -10,8 +10,9 @@ First, create a spotify and deezer app and fill the application information in t
 When you run the applications with valid arguments, a Spotify authorization popup and a Deezer authorization popup will appear. Accept both popups to get permission and the playlist will be converted.
 
 #### Arguments
-> -sP <Spotify Playlist ID>
-> -dP <Deezer Playlist ID>
-> -m  <Mode (1- Spotify to Deezer, 2- Deezer to Spotify)
-> -t  <Type (public or private)
-  
+'''
+-sP <Spotify Playlist ID>
+-dP <Deezer Playlist ID>
+-m  <Mode (1- Spotify to Deezer, 2- Deezer to Spotify)
+-t  <Type (public or private)
+'''
