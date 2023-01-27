@@ -14,5 +14,5 @@ When you run the applications with valid arguments, a Spotify authorization popu
 -sP <Spotify Playlist ID>
 -dP <Deezer Playlist ID>
 -m  <Mode (1- Spotify to Deezer, 2- Deezer to Spotify)
--t  <Type (public or private)
+-t  <Type (public or private)> (optional, defaults to public)
 ```
