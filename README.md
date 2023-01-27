@@ -11,7 +11,7 @@ When you run the applications with valid arguments, a Spotify authorization popu
 
 #### Arguments
 > -sP <Spotify Playlist ID>
-  -dP <Deezer Playlist ID>
-  -m  <Mode (1- Spotify to Deezer, 2- Deezer to Spotify)
-  -t  <Type (public or private)
+> -dP <Deezer Playlist ID>
+> -m  <Mode (1- Spotify to Deezer, 2- Deezer to Spotify)
+> -t  <Type (public or private)
   
